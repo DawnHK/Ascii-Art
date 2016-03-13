@@ -1,0 +1,526 @@
+
+So, You Want To Make Text Art?
+
+    ___            _     _            _       _             _
+   /  _`\         ( )   ( )          ( )  _  ( )           ( )_
+  | (_ (_) _       \`\_/'/__  _   _  | | ( ) | |  _ _  ___ | ,_)
+  `\__ \ /'_`\      `\ /' _ \( ) ( ) | | | | | |/'_` )' _ `\ |
+  (~)_) ( (_) )_     | ( (_) ) (_) | | (_/ \_) ( (_| | ( ) | |_
+   \____)\___/( )    (_)\___/ \___/  `\__/^\__/'\__,_|_)_(_)\__)
+              )/
+         _____                     _
+        (_   _)       /'\_/`\     (_)
+          | |  _      |     |  _ _| |/')   __
+          | |/'_`\    | /V\ |/'_" ) , <  /'__`\
+          | ( (_) )   | | | ( (_| | |\`\(  ___/
+          (_)\___/    (_) (_)\__,_|_) (_)\____)
+     _____          _         _____      _     ___
+    (_   _)        (_)_      (  _  )    (_)_  /__ \
+      | |  __      | ,_) ___ | (_) |_ __| ,_|(_) ) |
+      | |/'__`(`\/') |  (___)|  _  ( "__) |     / /
+      | (  ___/>  <| |_      | | | | |  | |_   |_|
+      (_)\____|_/\_)\__)     (_) (_|_)  `\__)  (_)...
+
+   ...That's NO problem, believe me. If you can't paint like
+Remington, Picasso, or Chester Scott, or sketch a square circle with a
+pencil, or even smear "wash me" on a dirty windshield with your
+finger, then text art is for you! Truth is, just about anybody can
+make a text picutre; so don't say that you CAN'T. You can. It's easy!
+It really is. It doesn't take a lot of practice, and it doesn't take a
+lot of "artistic ability". I can have you making your own, unique
+text-art, in no time at all.
+
+   Hi, I'm Jonathon R. Oglesbee, and I'll show you some of the simple
+"mysteries" of text-art. Just don't call me an "artist". I'm not. At
+best, I have been a hack cartoonist in the past... among other
+things. I make cartoons in ascii (pronounced ask-ee... or better yet,
+ass-key) for fun. I started doing it as a lark, but so many people
+took an interest, that the response I recieved left me
+speechless. I've stuck with it, in present-day computer form, for a
+few long, lineal, loafing, lolly- gagging years - (words with an "L",
+this time), and derived many hours of entertainment from cartooning
+gags, using nothing but text-art. I'm not an are-teest. But maybe you
+WILL be. So, if you are still interested, read on.
+     ____________________________________________________
+    |____________________________________________________|
+    | __     __   ____   ___ ||  ____    ____     _  __  |
+    ||  |__ |--|_| || |_|   |||_|**|*|__|+|+||___| ||  | |
+    ||==|^^||--| |=||=| |=*=||| |~~|~|  |=|=|| | |~||==| |
+    ||  |##||  | | || | |JRO|||-|  | |==|+|+||-|-|~||__| |
+    ||__|__||__|_|_||_|_|___|||_|__|_|__|_|_||_|_|_||__|_|
+    ||_______________________||__________________________|
+    | _____________________  ||      __   __  _  __    _ |
+    ||=|=|=|=|=|=|=|=|=|=|=| __..\/ |  |_|  ||#||==|  / /|
+    || | | | | | | | | | | |/\ \  \\|++|=|  || ||==| / / |
+    ||_|_|_|_|_|_|_|_|_|_|_/_/\_.___\__|_|__||_||__|/_/__|
+    |____________________ /\~()/()~//\ __________________|
+    | __   __    _  _     \_  (_ .  _/ _      _     _____|
+    ||~~|_|..|__| || |_ _   \ //\\ /  |=|_  /) |___| | | |
+    ||--|+|^^|==|1||2| | |__/\ __ /\__| |(\/((\ +|+|=|=|=|
+    ||__|_|__|__|_||_|_| /  \ \  / /  \_|_\___/|_|_|_|_|_|
+    |_________________ _/    \/\/\/    \_ /   /__________|
+    | _____   _   __  |/      \../      \/   /   __   ___|
+    ||_____|_| |_|##|_||   |   \/ __\       /=|_|++|_|-|||
+    ||______||=|#|--| |\   \   o     \_____/  |~|  | | |||
+    ||______||_|_|__|_|_\   \  o     | |_|_|__|_|__|_|_|||
+    |_________ __________\___\_______|____________ ______|
+    |__    _  /    ________     ______           /| _ _ _|
+    |\ \  |=|/   //    /| //   /  /  / |        / ||%|%|%|
+    | \/\ |*/   //____// //   /__/__/ (_)      /  ||=|=|=|
+  __|  \/\|/   /(____|/ //                    /  /||~|~|~|__
+    |___\_/   /________//   ________         /  / ||_|_|_|
+    |___ /   (|________/   |\_______\       /  /| |______|
+        /                  \|________)     /  / | |
+
+   First, you need to get ready. For that, you are going to need very
+little. Since you're probably reading this on-line, we will assume
+that you have a computer, with a keyboard at your disposal, and so we
+can dispense with the typewriter lesson (re- member typewriters?).
+Besides a keyboard, you will also need a monitor, and a simple
+text-editing program or word-processor. The simpler, the better. I
+generally use Windows Notepad, myself. If you are using something
+else, then I'd best mention a word or two about fonts.
+
+  "Fonts" are your character, or letter sets. You will need to
+"select" a font that will work well to make your text pictures with. A
+mono-spaced font is really the only thing to use. Fixedsys, Courier
+New, Topaz New, Lucinda Console - these are all mono-spaced
+fonts. That means that each character takes up the same amount of
+space. A font such as Garamond, Arial, or just plain Courier
+doesn't. If you make a picture using that kind of font, then it will
+appear skewed on any system that isn't displaying the same font you
+used to make the picture. If you use a mono-spaced font, you won't
+have these kinds of problems. So, if you are going to use a
+text-editor that allows you to pick your font, pick one that will
+work! If you're using something like Windows Notepad, it likely
+already uses a mono-spaced font, and you won't have to worry about
+this.
+
+   That's the main thing you need to know about fonts, but I better
+mention one other tip you'll need to know. That's about which letters
+and numbers are the good ones to use, for making ascii text-art. It's
+best to just stick to those characters you probably see, right there
+on the keys of your keyboard. There are some other interesting
+characters, often called "alt" or "extended" characters, which are
+usually made by holding down the "alt" key and typing in a
+number. There are some really neat ones, but it's best if you steer
+away from those things.
+
+   Now we'll begin, with a simple, step-by-step tutorial of how to
+make a castle.  Maybe you have seen some neat text pictures of castles
+or buildings, and been impressed by them. Well, let's just see about
+that...
+
+      |   and  _    <---- those are two useless-looking characters on
+                            your keyboard, aren't they?
+
+  Here's a thing or two you can do with them. Let's make some of those
+bottom-line things, three spaces apart...
+
+   _   _   _   _   _   _   _   _   _
+                                        <---- they just don't look like
+                                                much, do they?
+
+  Well, let's make some |'s, with _'s between every other one...
+
+|_| |_| |_| |_| |_| |_| |_| |_|   <----- looks kind of like... nothing,
+                                           huh?
+
+  Now, let's put the two separate lines together, like this....
+
+   _   _   _   _   _   _   _   _   _
+|_| |_| |_| |_| |_| |_| |_| |_| |_| | <--- it looks a little like a
+                                             parapet.
+
+   Next, let's continue with the |'s and _'s, on the third line, but
+let's add an extra _ between our |'s. One | and then two _'s, over
+and over...
+
+   _   _   _   _   _   _   _   _   _
+|_| |_| |_| |_| |_| |_| |_| |_| |_| |
+|__|__|__|__|__|__|__|__|__|__|__|__|  <--- it IS starting to look like
+                                              something... just a little
+                                              bit.
+
+  Continue this, but offset the |'s on at least every other line, so
+all your "blocks" aren't lined up the same. I'm certain you can see
+how I do this...
+
+   _   _   _   _   _   _   _   _   _
+|_| |_| |_| |_| |_| |_| |_| |_| |_| |
+|__|__|__|__|__|__|__|__|__|__|__|__|    <----  keep going...
+|_|__|__|__|__|__|__|__|__|__|__|__||
+
+   _   _   _   _   _   _   _   _   _
+|_| |_| |_| |_| |_| |_| |_| |_| |_| |
+|__|__|__|__|__|__|__|__|__|__|__|__|    <----  and keep going...
+|_|__|__|__|__|__|__|__|__|__|__|__||
+|__|__|__|__|__|__|__|__|__|__|__|__|
+
+   _   _   _   _   _   _   _   _   _
+|_| |_| |_| |_| |_| |_| |_| |_| |_| |
+|__|__|__|__|__|__|__|__|__|__|__|__|    <---- And now look!
+|_|__|__|__|__|__|__|__|__|__|__|__||
+|__|__|__|__|__|__|__|__|__|__|__|__|
+||__|__|__|__|__|__|__|__|__|__|__|_|
+|__|__|__|__|__|__|__|__|__|__|__|__|
+|_|__|__|__|__|__|__|__|__|__|__|__||
+
+   You could easily keep going, until you created the Great Wall of
+China. If I were you, though, I'd stop before I made 4,000 miles of
+this. Why not just settle for a simple castle wall?
+
+   Of course, you don't have to make your blocks just like I did mine.
+You could make them longer, shorter, twice as big, or even completely
+different, by doing some things like this:
+                                                              ________
+         _________        ___________________                [__]__]__]
+        |____|____|      |    |    |    |    |      _____      _________
+  _____                  |____|____|____|____|     |_|_|_|    {_}_}_}_}_}
+ /_\_/_\
+
+   ... That's all up to you. I'm sure you've got blocks all figured
+out by now, anyway.  Make your own, using whatever dimensions you
+like. Or use the same ones I have; I won't mind.
+
+   Using nothing more than the two characters we started with, you
+should have no trouble making a basic castle wall, like this one:
+
+ _   _   _   _   _   _   _   _   _   _   _
+| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |
+|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+||__|__|__|__|__|__|__|__|__|__|__|__|__|_|
+|__|__|__|__|__||         ||__|__|__|__|__|
+|_|__|__|__|__|||         ||_|__|__|__|__||
+|__|__|__|__|__||         ||__|__|__|__|__|
+
+...As you can see, that entire castle is constucted using nothing more
+than the "_" and "|"  characters. Soon, you'll be making much better
+ones than this, but I'm going to use it for demonstration purposes,
+okay?
+
+  Can you see how I have made the door? It was really no trick. If
+you're supple- minded, you could just count over to where you want
+your doorway, and remember not to brick it in. If you're lazy, like
+me, you could just put your cursor about where you want the right edge
+of your door to be, and backspace to where you want the left edge of
+your door, and then start making it. Easy.
+
+   That door looks a little plain, though. Still using only the same
+two characters, we'll just spruce it up a little:
+
+ _   _   _   _   _   _   _   _   _   _   _
+| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |
+|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+||__|__|__|__|__|__|__|__|__|__|__|__|__|_|
+|__|__|__|__|__||_   |   _||__|__|__|__|__|
+|_|__|__|__|__|||_  |||  _||_|__|__|__|__||
+|__|__|__|__|__||____|____||__|__|__|__|__|
+
+...There you go. You have now mastered the art of mediveal
+construction, using text from your keyboard.
+
+   Next, let's see about making a little fancier castle, and put it
+into a complete picture....
+
+   Well, here is another castle that I started for a cartoon I never
+finished.  It's very similar to the one above, and since it's not
+doing anything else, I'll just use it here. Take a look:
+
+                     |
+                     |
+                    /^\
+                   /^^^\
+                  /^^^^^\
+                 /_______\
+                 |  ___  |
+                 | |   | |
+                 | |___| |
+                 |       |
+   _   _   _   _ | _   _ | _   _   _   _
+  | |_| |_| |_| |_| |_| |_| |_| |_| |_| |
+  |__|__|__|__|__|__|__|__|__|__|__|__|_|
+  |_|__|__|__|__|__|__|__|__|__|__|__|__|
+  |__|__|__|__|__|__|__|__|__|__|__|__|_|
+  |_|__|__|__|__|__|...|_|__|__|__|__|__|
+  |__|__|__|__|__|."   ".|_|__|__|__|__||
+  |_|__|__|__|__|||     ||__|__|__|__|__|
+  ||__|__|__|__|_||     ||_|__|__|__|__||
+  |__|__|__|__|__||_____||__|__|__|__|__|
+
+...I never really finished this picture, as you can see. We'll take
+care of that, but first, I want you to notice that the additional
+characters I have used in this castle:
+
+         /        \     ^    .    "
+
+   Find them on your keyboard, and get ready to use 'em.
+
+   Now, you might think that curve above the door is simple. It is.
+It's made on two lines, like this:
+
+line 1    ... three periods
+
+line 2  ."   ". a period and a quotation mark, followed by three
+spaces, and then a quotation mark and another period.
+
+Together, lines 1+2 look like this:
+                                     ...
+                                   ."   ".     ... a simple arch.
+
+   Let's finish this picture, now...
+
+                     |>>>>
+                     |
+                    / \
+                   /   \
+                  /     \
+                 /_______\
+                 |__|_|__|
+                 |_|   |_|
+                 |_|___|_|
+                 |__|__|_|
+   _   _   _   _ |_|__|__| _   _   _   _
+  | |_| |_| |_| |_| |_| |_| |_| |_| |_| |
+  |__|__|__|__|__|__|__|__|__|__|__|__|_|
+  |_|__|__|__|__|__|__|__|__|__|__|__|__|
+  |__|__|__|__|__|__|__|__|__|__|__|__|_|
+  |_|__|__|__|__|__|...|_|__|__|__|__|__|
+  |__|__|__|__|__|." | ".|_|__|__|__|__||
+  |_|__|__|__|__|||  |  ||__|__|__|__|__|
+  ||__|__|__|__|_||  |  ||_|__|__|__|__||
+  |__|__|__|__|__||__|__||__|__|__|__|__|
+
+   All I have done here, is brick in the tower, add a midline to the
+door, and add a little flag at the top. I didn't really care for the
+"shingles" I had on the roof, so I deleted them. If you liked them,
+you can keep them in, of course.
+
+   That "flag" looks cute, but it is really nothing except the <
+character...  Oh my, my; I mean the > character, entered a few times,
+until it looks like a flag.
+
+   Next, let's add a line to give it a little dimension, just like
+with a drawn picture on a sketchpad. We won't really need anything
+except the "_" character again....
+
+                              |>>>>
+                              |
+                             / \
+                            /   \
+                           /     \
+                          /_______\
+                          |__|_|__|
+                          |_|   |_|
+                          |_|___|_|
+                          |__|__|_|
+            _   _   _   _ |_|__|__| _   _   _   _
+           | |_| |_| |_| |_| |_| |_| |_| |_| |_| |
+           |__|__|__|__|__|__|__|__|__|__|__|__|_|
+           |_|__|__|__|__|__|__|__|__|__|__|__|__|
+           |__|__|__|__|__|__|__|__|__|__|__|__|_|
+ _________ |_|__|__|__|__|__|...|_|__|__|__|__|__| _____________
+           |__|__|__|__|__|." | ".|_|__|__|__|__||
+           |_|__|__|__|__|||  |  ||__|__|__|__|__|
+           |__|__|__|__|__||  |  ||_|__|__|__|__||
+           |_|__|__|__|__|||__|__||__|__|__|__|__|
+
+   That's much better, isn't it? But this picture still lacks an
+element or two... I think what this picture really needs, is a tree or
+two. Trees are really simple to make. We will look at two easy ones,
+made with the characters:
+
+                       /   |    \     @
+
+   And here they are:
+
+                           @@@@@@
+               /\        @@@@@@@@@
+              //\\       @@@@@@@@@@
+             ///\\\      @@@@@@@@@
+            ////\\\\      @@@@@@
+           /////\\\\\      | |
+               ||          | |
+
+   Pretty simple to make an evergreen and a deciduous tree, isn't it?
+I could have made some fancier ones, but I will leave that for your
+imagination to come up with.  Anyway, let's add these to the
+picture....
+
+                              |>>>>
+                              |
+                             / \
+                            /   \
+                           /     \
+                          /_______\
+                          |__|_|__|
+                          |_|   |_|
+                          |_|___|_|
+                          |__|__|_|
+     /\     _   _   _   _ |_|__|__| _   _   _   _
+    //\\   | |_| |_| |_| |_| |_| |_| |_| |_| |_| |   @@@@@@
+   ///\\\  |__|__|__|__|__|__|__|__|__|__|__|__|_|  @@@@@@@@@
+  ////\\\\ |_|__|__|__|__|__|__|__|__|__|__|__|__| @@@@@@@@@@
+ /////\\\\\|__|__|__|__|__|__|__|__|__|__|__|__|_|  @@@@@@@@@
+  ___||___ |_|__|__|__|__|__|...|_|__|__|__|__|__| _ @@@@@@ ____
+           |__|__|__|__|__|." | ".|_|__|__|__|__||    |  |
+           |_|__|__|__|__|||  |  ||__|__|__|__|__|    |  |
+           |__|__|__|__|__||  |  ||_|__|__|__|__||
+           |_|__|__|__|__|||__|__||__|__|__|__|__|
+
+   That still doesn't look like quite enough foliage to me, so let's
+look at some ways to make some flowers and things...
+
+                  @
+                 \|/      <---- nothing new here, is there?
+
+                %
+               \|/        <------ I didn't do anything here, except
+                                  subtitute a percent character.
+
+Now, let's add 'em in quantity....
+
+                              |>>>>
+                              |
+                             / \
+                            /   \
+                           /     \
+                          /_______\
+                          |__|_|__|
+                          |_|   |_|
+                          |_|___|_|
+                          |__|__|_|
+     /\     _   _   _   _ |_|__|__| _   _   _   _
+    //\\   | |_| |_| |_| |_| |_| |_| |_| |_| |_| |   @@@@@@
+   ///\\\  |__|__|__|__|__|__|__|__|__|__|__|__|_|  @@@@@@@@@
+  ////\\\\ |_|__|__|__|__|__|__|__|__|__|__|__|__| @@@@@@@@@@
+ /////\\\\\|__|__|__|__|__|__|__|__|__|__|__|__|_|  @@@@@@@@@
+  ___||___ |_|__|__|__|__|__|...|_|__|__|__|__|__| _ @@@@@@ ____
+           |__|__|__|__|__|." | ".||__|__|__|__|_|    |  |
+   @  @  @ |_|__|__|__|__|||  |  ||_|__|__|__|__||  % | %| %
+  \|/\|/\|/|_@|__@__|_@|__||  |  |||__|_%_|_%_|_%| \|/ \|/\|/
+  @  @  @  |\|/_\|/_|\|/__||__|__||__|_\|/_\|/|\|/ %   %  %
+                                                  \|/ \|/\|/
+
+   Notice that I put some of the flowers directly "in front" of our
+castle. I knew where I wanted them to go, placed the cursor there,
+backspaced, and entered the new character I wanted to use - simple. If
+it had looked misplaced, well...  that's a lot easier to fix, than
+going back and erasing a "real" line on a piece of paper, or finding
+some way to incorporate a mistake into an actual painting.  About the
+only "trick" you see me doing in this picture, is with the
+background. I have intentionally left out a space between the
+background line, and the castle and tree element. This preserves the
+perspective of the text picture, by keeping the background line from
+running into the foreground elements, which may confuse the eye into
+thinking they are all connected. With a text picture, this can often
+be a problem. Some text artists don't do this, because they may have
+other ways of keeping the perspective constant. Then again, some just
+forget, but don't tell them I said so.
+
+   This picture looks almost done, but I think it needs a road up to the
+front door...
+
+                              |>>>>
+                              |
+                             / \
+                            /   \
+                           /     \
+                          /_______\
+                          |__|_|__|
+                          |_|   |_|
+                          |_|___|_|
+                          |__|__|_|
+     /\     _   _   _   _ |_|__|__| _   _   _   _
+    //\\   | |_| |_| |_| |_| |_| |_| |_| |_| |_| |   @@@@@@
+   ///\\\  |__|__|__|__|__|__|__|__|__|__|__|__|_|  @@@@@@@@@
+  ////\\\\ |_|__|__|__|__|__|__|__|__|__|__|__|__| @@@@@@@@@@
+ /////\\\\\|__|__|__|__|__|__|__|__|__|__|__|__|_|  @@@@@@@@@
+  ___||___ |_|__|__|__|__|__|...|_|__|__|__|__|__| _ @@@@@@ ____
+           |__|__|__|__|__|." | ".||__|__|__|__|_|    |  |
+   @  @  @ |_|__|__|__|__|||  |  ||_|__|__|__|__||  % | %| %
+  \|/\|/\|/|_@|__@__|_@|__||  |  |||__|_%_|_%_|_%| \|/ \|/\|/
+  @  @  @  |\|/_\|/_|\|/__||__|__||__|_\|/_\|/|\|/ %   %  %
+ \|/\|/\|/               .'       '.              \|/ \|/\|/
+                       .'           '.
+                     .'               '.
+                   .'                   '.
+
+...Nothing more than periods and appostrophes were used to make that
+road, by using an ever-widening space between them on the following
+lines. Hey, how about a cloud or two?...
+
+             ________
+           _( (   __ )_
+        __( __     ) __)
+       (____   (   _)
+            (_____)
+
+      Parenthesis and the bottom-line character make good, easy clouds.
+Let's put some in the picture...
+
+             ________                          __
+           _( (   __ )_                      _(( )_
+        __( __     ) __)                  __(   )  )
+       (____   (   _)                    (_ (  _ __ )_
+            (_____)                       _( __     __)
+                                         (__(_  (  _)
+                              |>>>>           (___)
+                              |
+                             / \
+                            /   \
+                           /     \
+                          /_______\
+                          |__|_|__|
+                          |_|   |_|
+                          |_|___|_|
+                          |__|__|_|
+     /\     _   _   _   _ |_|__|__| _   _   _   _
+    //\\   | |_| |_| |_| |_| |_| |_| |_| |_| |_| |   @@@@@@
+   ///\\\  |__|__|__|__|__|__|__|__|__|__|__|__|_|  @@@@@@@@@
+  ////\\\\ |_|__|__|__|__|__|__|__|__|__|__|__|__| @@@@@@@@@@
+ /////\\\\\|__|__|__|__|__|__|__|__|__|__|__|__|_|  @@@@@@@@@
+  ___||___ |_|__|__|__|__|__|...|_|__|__|__|__|__| _ @@@@@@ ____
+           |__|__|__|__|__|." | ".||__|__|__|__|_|    |  |  JRO
+   @  @  @ |_|__|__|__|__|||  |  ||_|__|__|__|__||  % | %| %
+  \|/\|/\|/|_@|__@__|_@|__||  |  |||__|_%_|_%_|_%| \|/ \|/\|/
+  @  @  @  |\|/_\|/_|\|/__||__|__||__|_\|/_\|/|\|/ %   %  %
+ \|/\|/\|/               .'       '.              \|/ \|/\|/
+                       .'           '.
+                     .'               '.
+                   .'                   '.
+
+   There you go. One completed picture of a castle, that looks like
+it's doing something besides hanging there on an empty page. Be sure
+and sign your picture, so folks will know who made it!
+
+   By now, I am sure you have dozens of ideas for improving that
+picture, and for making better ones of your own. Try them all! There
+is really no mystery to making good text-art. Play around with it, in
+your spare time.  You'll most likely impress yourself with the
+results. Drop me a line, if you come up with any that you'd like to
+show me, or need some help:
+
+                     oglesbee@
+                             mail.fullnet.net
+
+  We'll be continuing this series of tutorials, later. I'll try to cover
+other topics, from people to perspective. Watch for more, later.
+
+              __..\/
+             /\ \  \\         Good Luck!
+            /_/\_.___\           JRO
+           /\\~()\()~/\
+           \_    _)  _/      __
+             \  //\\/       (((\
+           __/\ __ /\__   /)////
+          /  \ \  / /  \  \___/
+         /    \/\/\/    \/   /
+        |      \../     /   /
+        |   |   \/ __ \    /
+        |   |    o    |\__/
+        |   |    o    |
+        |   |    o    |
+
+--
+Jonathon R. Oglesbee

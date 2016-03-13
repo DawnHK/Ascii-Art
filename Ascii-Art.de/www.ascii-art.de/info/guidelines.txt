@@ -1,0 +1,291 @@
+
+Posted-By: auto-faq 3.3 (Perl 5.006)
+Archive-name: ascii-intro.txt
+Posting-frequency: weekly
+Last-modified: 2002/07/20 22:02:45
+Version: 1.3.1
+URL: http://myweb.tiscali.co.uk/asciiart/
+
+$Revision: 1.3.1 $ $Date: 2002/07/20 22:02:45 $
+                 ____  _____ ____
+      _..._      |  _ \| ____/ ___|            //
+    ,'     `.    | |_) |  _|| |               /X//  _
+   /         \   |  _ <| |__| |___ _        (\ //-'//
+   \`-'\`-'/`/   |_| \_\_____\____(_)       / \)---'
+    `.  ; ;.'    _    ____ _____ ____      /X//
+      `.;,'     / \  |  _ \_   _/ ___|
+       \O/     / _ \ | |_) || | \___ \
+       ()     / ___ \|  _ < | |  ___) |
+       >>    /_/   \_\_| \_\|_| |____(_)
+               _    ____   ____ ___ ___
+              / \  / ___| / ___|_ _|_ _|    \O/
+             / _ \ \___ \| |    | | | |      ()]
+            / ___ \ ___) | |___ | | | |      ||     __
+           /_/   \_\____/ \____|___|___|   .'"|:  .' /;
+          __......____...---.._        ~O/ :  `: /    '
+    ..--""                .----`.      [()\;   :/   /
+                     |    :     :       />.'  =;   /
+               __________`-----.'---.----'    ;  .'
+                                            .' .'
+  __                            ___   ___..' -'
+    `---------------._.------'''   """              MJP
+
+                  ____           _   _
+                 |  _ \ ___  ___| |_(_)_ __   __ _
+                 | |_) / _ \/ __| __| | '_ \ / _` |
+                 |  __/ (_) \__ \ |_| | | | | (_| |
+                 |_|   \___/|___/\__|_|_| |_|\__, |
+                                              |___/
+
+             ____       _     _      _ _
+            / ___|_   _(_) __| | ___| (_)_ __   ___  ___
+           | |  _| | | | |/ _` |/ _ \ | | '_ \ / _ \/ __|
+           | |_| | |_| | | (_| |  __/ | | | | |  __/\__ \
+            \____|\__,_|_|\__,_|\___|_|_|_| |_|\___||___/
+
+
+The full posting guidelines and moderation policies are available at
+http://myweb.tiscali.co.uk/asciiart/ . These may be found at
+http://myweb.tiscali.co.uk/asciiart/guidelines.txt.
+
+You can also get this by e-mailing rec-arts-ascii@gweep.ca with the
+subject 'get file: guidelines.txt'. A list of other files can be
+found my using the subject 'list files' and then retreived using
+'get file: FILENAME'.
+
+Any inquiries, comments or suggestions should be sent to the group
+moderator at rec-arts-ascii-moderator@gweep.ca.
+
+=======
+Charter
+=======
+
+The official charter for rec.arts.ascii, as sent in the newgroup
+control message, is:
+
+   The new group rec.arts.ascii will be the appropriate group for
+   postings to include, but not be limited to, the following:
+
+    o  All forms of ASCII art including, but not limited to:
+       -  Standard ASCII art.
+       -  Animations.
+       -  ANSI color graphics.
+    o  Discussion about pieces of art.
+    o  Requests for specific pieces of art, and their fulfillment.
+    o  Questions and answers covering:
+       -  Creating and viewing ASCII art.
+       -  Locating FTP sites for ASCII art and related files.
+    o  Discussion about artists in the field.
+
+===
+FAQ
+===
+
+An ascii art FAQ is posted to the group with the subject
+[FAQ] Ascii Art Help and Guidance.
+This is also available at
+http://myweb.tiscali.co.uk/asciiart/faq.txt and from the mail
+server. Mail rec-arts-ascii@gweep.ca with subject
+'get file: faq.txt'.
+(Note that this is not yet happening and is on my To Do list).
+
+==========
+Moderation
+==========
+
+rec.arts.ascii was created as a moderated group meaning that all posts
+are reviewed before being sent to the group. That work is done by a
+robomoderator which checks that the posts have the correct format
+before approving them. It can also forward a specific posters posts
+to a human moderation for approval if necessary but it is hoped that
+the group will be self policing and that this will not be necessary.
+
+The criteria checked for are:
+
+Subject must be tagged either
+
+[PIC] for pictures
+[REQ] for requests for others to draw pictures (people responding to
+       such requests are asked to change the tag to [PIC])
+[DIS] for general ascii art related discussion.
+
+The moderators will also use
+[ADMIN] for posting any other important information regarding the
+         functioning of the group.
+
+The robomod will also check that the posts are in plain text only and
+that the line length is set to less than 200 characters. Unless you
+have the phrase 'long lines' in the body please keep the lines to less
+than 80 characters, the robomod will send out reminders of this is you
+don't. Anything longer than this will be sent to the moderator for hand
+inspection.
+
+Cross-posting will be allowed provided that  it is to no more than three
+groups and that the followup-to header is set to only one group.
+Cross-posting to other moderated groups is not allowed except under
+extreme circumstances. If you think you have a very good case then
+contact the moderators.
+
+
+
+-- 
+Graham Drabble
+
+
+
+From rec-arts-ascii-moderator@gweep.ca Mon Aug 19 14:33:50 2002
+Path: newsserver.rrzn.uni-hannover.de!news-han1.dfn.de!news-nue1.dfn.de!uni-erlangen.de!syros.belnet.be!news.belnet.be!newsfeed.stanford.edu!lios!news.gweep.ca!not-for-mail
+Message-ID: <ascii-intro-faq-1-1029740463@gweep.ca>
+From: FAQ Autoposter <rec-arts-ascii-moderator@gweep.ca>
+Newsgroups: rec.arts.ascii
+Subject: [ADMIN] Posting guidelines for rec.arts.ascii
+Date: Mon, 19 Aug 2002 07:01:05 +0000 (UTC)
+Lines: 132
+Supersedes: <ascii-intro-faq-1-1029135661@gweep.ca>
+Followup-To: poster
+Organization: Gweep Systems, Vancouver BC, Canada
+Sender: robomod@lios.aq2.gweep.ca
+Approved: rec-arts-ascii-moderator@gweep.ca
+Distribution: world
+Expires: Mon, 09 Sep 2002 00:01:03 PDT
+NNTP-Posting-Host: localhost
+X-Trace: lios.aq2.gweep.ca 1029740465 28319 127.0.0.1 (19 Aug 2002 07:01:05 GMT)
+X-Complaints-To: usenet@lios.aq2.gweep.ca
+NNTP-Posting-Date: Mon, 19 Aug 2002 07:01:05 +0000 (UTC)
+Summary: This posting contains the charter and posting guidelines for the    moderated newsgroup rec.arts.ascii.
+Xref: adfpc.amp.uni-hannover.de rec.arts.ascii:156
+
+Posted-By: auto-faq 3.3 (Perl 5.006)
+Archive-name: ascii-intro.txt
+Posting-frequency: weekly
+Last-modified: 2002/07/20 22:02:45
+Version: 1.3.1
+URL: http://myweb.tiscali.co.uk/asciiart/
+
+$Revision: 1.3.1 $ $Date: 2002/07/20 22:02:45 $
+                 ____  _____ ____
+      _..._      |  _ \| ____/ ___|            //
+    ,'     `.    | |_) |  _|| |               /X//  _
+   /         \   |  _ <| |__| |___ _        (\ //-'//
+   \`-'\`-'/`/   |_| \_\_____\____(_)       / \)---'
+    `.  ; ;.'    _    ____ _____ ____      /X//
+      `.;,'     / \  |  _ \_   _/ ___|
+       \O/     / _ \ | |_) || | \___ \
+       ()     / ___ \|  _ < | |  ___) |
+       >>    /_/   \_\_| \_\|_| |____(_)
+               _    ____   ____ ___ ___
+              / \  / ___| / ___|_ _|_ _|    \O/
+             / _ \ \___ \| |    | | | |      ()]
+            / ___ \ ___) | |___ | | | |      ||     __
+           /_/   \_\____/ \____|___|___|   .'"|:  .' /;
+          __......____...---.._        ~O/ :  `: /    '
+    ..--""                .----`.      [()\;   :/   /
+                     |    :     :       />.'  =;   /
+               __________`-----.'---.----'    ;  .'
+                                            .' .'
+  __                            ___   ___..' -'
+    `---------------._.------'''   """              MJP
+
+                  ____           _   _
+                 |  _ \ ___  ___| |_(_)_ __   __ _
+                 | |_) / _ \/ __| __| | '_ \ / _` |
+                 |  __/ (_) \__ \ |_| | | | | (_| |
+                 |_|   \___/|___/\__|_|_| |_|\__, |
+                                              |___/
+
+             ____       _     _      _ _
+            / ___|_   _(_) __| | ___| (_)_ __   ___  ___
+           | |  _| | | | |/ _` |/ _ \ | | '_ \ / _ \/ __|
+           | |_| | |_| | | (_| |  __/ | | | | |  __/\__ \
+            \____|\__,_|_|\__,_|\___|_|_|_| |_|\___||___/
+
+
+The full posting guidelines and moderation policies are available at
+http://myweb.tiscali.co.uk/asciiart/ . These may be found at
+http://myweb.tiscali.co.uk/asciiart/guidelines.txt.
+
+You can also get this by e-mailing rec-arts-ascii@gweep.ca with the
+subject 'get file: guidelines.txt'. A list of other files can be
+found my using the subject 'list files' and then retreived using
+'get file: FILENAME'.
+
+Any inquiries, comments or suggestions should be sent to the group
+moderator at rec-arts-ascii-moderator@gweep.ca.
+
+=======
+Charter
+=======
+
+The official charter for rec.arts.ascii, as sent in the newgroup
+control message, is:
+
+   The new group rec.arts.ascii will be the appropriate group for
+   postings to include, but not be limited to, the following:
+
+    o  All forms of ASCII art including, but not limited to:
+       -  Standard ASCII art.
+       -  Animations.
+       -  ANSI color graphics.
+    o  Discussion about pieces of art.
+    o  Requests for specific pieces of art, and their fulfillment.
+    o  Questions and answers covering:
+       -  Creating and viewing ASCII art.
+       -  Locating FTP sites for ASCII art and related files.
+    o  Discussion about artists in the field.
+
+===
+FAQ
+===
+
+An ascii art FAQ is posted to the group with the subject
+[FAQ] Ascii Art Help and Guidance.
+This is also available at
+http://myweb.tiscali.co.uk/asciiart/faq.txt and from the mail
+server. Mail rec-arts-ascii@gweep.ca with subject
+'get file: faq.txt'.
+(Note that this is not yet happening and is on my To Do list).
+
+==========
+Moderation
+==========
+
+rec.arts.ascii was created as a moderated group meaning that all posts
+are reviewed before being sent to the group. That work is done by a
+robomoderator which checks that the posts have the correct format
+before approving them. It can also forward a specific posters posts
+to a human moderation for approval if necessary but it is hoped that
+the group will be self policing and that this will not be necessary.
+
+The criteria checked for are:
+
+Subject must be tagged either
+
+[PIC] for pictures
+[REQ] for requests for others to draw pictures (people responding to
+       such requests are asked to change the tag to [PIC])
+[DIS] for general ascii art related discussion.
+
+The moderators will also use
+[ADMIN] for posting any other important information regarding the
+         functioning of the group.
+
+The robomod will also check that the posts are in plain text only and
+that the line length is set to less than 200 characters. Unless you
+have the phrase 'long lines' in the body please keep the lines to less
+than 80 characters, the robomod will send out reminders of this is you
+don't. Anything longer than this will be sent to the moderator for hand
+inspection.
+
+Cross-posting will be allowed provided that  it is to no more than three
+groups and that the followup-to header is set to only one group.
+Cross-posting to other moderated groups is not allowed except under
+extreme circumstances. If you think you have a very good case then
+contact the moderators.
+
+
+
+-- 
+Graham Drabble
+
+
+

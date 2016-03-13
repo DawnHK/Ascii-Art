@@ -1,0 +1,113 @@
+From: Jens =?ISO-8859-1?Q?Rei=DFenweber?= <jrei@gmx.de>
+Newsgroups: de.alt.rec.ascii-art
+Subject: [FAQ] Grundlagen der ASCII-Kunst v1.03
+
+Archive-name: dara-a-faq
+Posting-frequency: monthly
+Last-modified: 2002-10-01
+URL: http://ascii-art.surfhome.de/dara-a-faq.txt
+
+1.) Was ist ASCII-Art?
+~~~~~~~~~~~~~~~~~~~~~~
+    ASCII ist die Abkuerzung fuer `American Standard Code for
+    Information Interchange'. Dieser Zeichensatz enthaelt 128 Zeichen,
+    die auf den meisten Computersystemen eindeutig erkannt werden
+    sollten.
+
+    ASCII-Art ist das "Zeichnen" mit den Buchstaben, Zahlen und anderen
+    druckbaren Zeichen, die im ASCII-Zeichensatz enthalten sind. Im
+    einzelnen sind das die folgenden:
+
+    032 [space] 048 0       064 @       080 P       096 `       112 p
+    033 !       049 1       065 A       081 Q       097 a       113 q
+    034 "       050 2       066 B       082 R       098 b       114 r
+    035 #       051 3       067 C       083 S       099 c       115 s
+    036 $       052 4       068 D       084 T       100 d       116 t
+    037 %       053 5       069 E       085 U       101 e       117 u
+    038 &       054 6       070 F       086 V       102 f       118 v
+    039 '       055 7       071 G       087 W       103 g       119 w
+    040 (       056 8       072 H       088 X       104 h       120 x
+    041 )       057 9       073 I       089 Y       105 i       121 y
+    042 *       058 :       074 J       090 Z       106 j       122 z
+    043 +       059 ;       075 K       091 [       107 k       123 {
+    044 ,       060 <       076 L       092 \       108 l       124 |
+    045 -       061 =       077 M       093 ]       109 m       125 }
+    046 .       062 >       078 N       094 ^       110 n       126 ~
+    047 /       063 ?       079 O       095 _       111 o
+
+2.) Ich kann die Bilder nicht erkennen. Was kann ich tun?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Wahrscheinlich hast Du in Deinem Newsreader keine Festbreitenschrift
+    (z.B. `Courier New') eingestellt. Wie Du das aendern kannst, steht
+    in der Anleitung zu Deinem Newsreader.
+
+    Wenn Du alles richtig eingestellt hast, haben die beiden
+    folgenden Zeilen die gleiche Laenge:
+
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+3.) Was bedeuten diese Buchstaben unter/an den ASCII-Bildern?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Das sind die Initalen oder eine andere - moeglichst eindeutige -
+    Zeichenfolge des Kuenstlers (auch "Tag" oder "Sig" genannt). Dies
+    entspricht der Signatur des Kuenstlers in der herkoemmlichen
+    Malerei. Siehe: http://www.ascii-art.de/ascii/uvw/who_is_who.txt
+
+4.) Was ist "diddle"?
+~~~~~~~~~~~~~~~~~~~~~
+    "Diddeln" ist die Aenderung/Verbesserung eines schon vorhanden
+    ASCII-Bildes.
+
+5.) Was bedeutet "ob-ascii"?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Obligatorisches ASCII-Bild. Das heisst: Da das Thema dieser
+    Newsgroup ASCII-Art ist, sollte jedes Posting ein neues Bild
+    enthalten.
+
+6.) Darf ich fremde ASCII-Bilder kopieren und selbst verwenden?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Frag den jeweiligen Zeichner. In den meisten Faellen wird dieser
+    sicher nichts dagegen haben, unter der Voraussetzung, dass Du das
+    Tag (siehe Frage 3) nicht aus dem Bild entfernst. Du wuerdest doch
+    von einem Oelbild auch nicht die Signatur des Malers abkratzen,
+    oder?
+
+7.) Wo finde ich einen Schriftzug/ein Bild von ...?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Du kannst Dein Request gern in dieser Gruppe posten (aber bitte kein
+    Cross- oder Multipost in andere ASCII-Art-Gruppen), evtl. rafft sich
+    dann einer der faulen Mitleser auf, und zeichnet das Gewuenschte. ;)
+
+    Ein sehr umfangreiches Archiv mit vielen schoenen Kunstwerken
+    findest Du hier: http://www.ascii-art.de/
+
+    Zum einfachen Erstellen von Schriftzuegen ist http://www.figlet.org/
+    geeignet.
+
+    Ausserdem gibt es viele ASCII-Art-Webseiten, auf denen die Kuenstler
+    ihre Bilder zeigen. Eine Suchmaschine und/oder ein Blick auf
+    http://www.ascii-art.de/ascii/uvw/who_is_who.txt helfen weiter.
+
+8.) Mit welchen Programmen kann ich eigene ASCII-Bilder erstellen?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Das geht mit jedem beliebigen Text-Editor. Auch hier solltest Du
+    beachten, dass eine Festbreitenschrift eingestellt ist, damit wir
+    Deine Bilder auch erkennen koennen, wenn Du sie in dara-a
+    vorstellst. Deine Kunstwerke sollten moeglichst nicht breiter als 80
+    Zeichen sein, da sie sonst in einigen Programmen nicht korrekt
+    dargestellt werden koennen.
+
+9.) Darf ich Umlaute oder Sonderzeichen verwenden?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Du darfst schon, nur ist das Ergebnis dann keine ASCII-Kunst.
+
+10.) Gibt es Programme zum Konvertieren von jpeg, gif u.s.w.?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Ja.
+
+------------------------------------------------------------------------
+Diese FAQ-Liste wurde mit freundlicher Unterstuetzung einiger
+dara-a-Poster zusammengestellt. Vielen Dank an alle Helfer!
+
+
